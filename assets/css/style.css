@@ -1,0 +1,165 @@
+@import url('https://fonts.googleapis.com/css2?family=Almarai:wght@300&family=DM+Serif+Display:ital@1&family=Epilogue:wght@100;400&family=Inika&family=Inria+Serif:ital,wght@1,700&family=Inter&family=Itim&family=Playball&family=Poppins:wght@100&family=Roboto:wght@100;700&display=swap');
+body {
+    font-family: 'Inter', sans-serif;
+    color: black;
+    background-color: #46D143;
+    background-size: cover; 
+    background-position: center; 
+    background-repeat: no-repeat;  
+    box-sizing: border-box;
+    height: 100vh;
+}
+.w3 {
+   background-color: transparent;
+}
+nav .w3 a {
+    margin-right: 1.5rem;
+    font-size: 1.5rem;
+    font-weight: bold; 
+}
+/* Home */
+.home img {
+    width: 39.5rem;
+    position: absolute;
+    top: 13%;
+    left: 50%;
+}
+.home h1 {
+    position: absolute;
+    right: 40%;
+    top: 30%;
+    font-size: 3rem;
+    font-family: 'Inter', sans-serif;
+}
+.home h2 {
+    position: absolute;
+    left: 40%;
+    top: 50%;
+    font-size: 2rem;
+    transform: translateX(-50%);
+    font-family: 'Inter', sans-serif;
+}
+/* About  */
+.about img {
+    width: 12rem;
+    position: absolute;
+    top: 20%;
+    left: 5%;
+}
+.about h2{
+    position: absolute;
+    font-size: 3rem;
+    font-family: 'Inter', sans-serif;
+    top: 20%;
+    left: 45%;
+}
+.about h3{
+    position: absolute;
+    font-size: 2rem;
+    transform: translateX(-10%);
+    font-family: 'Inter', sans-serif;
+    top: 40%;
+    left: 25%;
+}
+
+/* Project */
+.project img {
+    width: 12rem;
+    position: absolute;
+    top: 30%;
+    left: 15%;
+}
+.project h1 {
+    position: absolute;
+    font-size: 3rem;
+    font-family: 'Inter', sans-serif;
+    top: 15%;
+    left: 44%;
+}
+.project h2 {
+    position: absolute;
+    font-size: 1.2rem;
+    font-family: 'Inter', sans-serif;
+    transform: translateX(-40%);
+    top: 33%;
+    left: 50%;
+}
+.project1 img {
+    width: 12rem;
+    position: absolute;
+    top: 52%;
+    left: 12%;
+}
+.project1 h1 {
+    position: absolute;
+    font-size: 1.2rem;
+    font-family: 'Inter', sans-serif;
+    transform: translateX(-40%);
+    top: 55%;
+    left: 50%;
+}
+.project2 img {
+    width: 12rem;
+    position: absolute;
+    top: 76%;
+    left: 15%;
+}
+.project2 h1 {
+    position: absolute;
+    font-size: 1.2rem;
+    font-family: 'Inter', sans-serif;
+    transform: translateX(-40%);
+    top: 76%;
+    left: 50%;
+}
+/* contact */
+.contacts i {
+    font-size: 4rem;
+    font-weight: bold;
+    border-radius: 50%;
+    margin-right: 1rem;
+}
+.contacts h1 {
+    position: absolute;
+    top: 60%;
+    right: 40%;
+    font-size: 3rem;
+    font-weight: bold;
+    border-radius: 50%;
+    margin-right: 1rem;
+}
+.contacts h3 {
+    position: absolute;
+    top: 30%;
+    right: 42%;
+    font-size: 3rem;
+    font-weight: bold;
+    border-radius: 50%;
+    margin-right: 1rem;
+}
+.contacts h4 {
+    position: absolute;
+    top: 45%;
+    right: 45%;
+    font-size: 3rem;
+    font-weight: bold;
+    border-radius: 50%;
+    margin-right: 1rem;
+}
+.contacts h2 {
+    position: absolute;
+    font-size: 3rem;
+    font-family: 'Epilogue', sans-serif;
+    top: 15%;
+    font-weight: bold;
+    left: 5.5%;
+}
+.contacts h5 {
+    position: absolute;
+    top: 75%;
+    right: 54%;
+    font-size: 3rem;
+    font-weight: bold;
+    border-radius: 50%;
+    margin-right: 1rem;
+}
